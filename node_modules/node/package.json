@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "readme": "ERROR: No README data found!",
+  "_id": "node@0.0.0",
+  "dist": {
+    "shasum": "668cb8780a6c8dd35d2f645d64751c7c58e7d45b"
+  },
+  "deprecated": "To update or install node, go to http://nodejs.org/",
+  "_from": "node@",
+  "_resolved": "https://registry.npmjs.org/node/-/node-0.0.0.tgz"
+}
