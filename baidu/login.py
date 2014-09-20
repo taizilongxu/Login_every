@@ -1,12 +1,11 @@
 #-*- encoding: UTF-8 -*-
 #---------------------------------import------------------------------------
+import urllib2
+import requests
+import time
+import re
 #---------------------------------------------------------------------------
-#coding:utf-8
-
 #百度登陆更改版
-
-import urllib2,requests,time,re
-
 def login_baidu(name,password):
     #访问主页，获取cookie
     s.get('http://www.baidu.com')
